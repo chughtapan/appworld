@@ -34,6 +34,7 @@ exclude = [
 ]
 include = [
     "src/appworld/*.bundle",
+    "src/appworld/apps/lib/**/*.py",
     "src/appworld/serve/playground.html",
     "src/appworld/serve/static/icon.png",
 ]
