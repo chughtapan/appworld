@@ -29,7 +29,6 @@ license = "Apache-2.0"
 readme = "README.pypi.md"
 packages = [{include = "appworld", from = "src" }]
 exclude = [
-    "src/appworld/apps/*/**",
     "**/*.yaml",
 ]
 include = [
